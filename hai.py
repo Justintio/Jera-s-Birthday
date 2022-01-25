@@ -19,6 +19,7 @@ if nama == 'bener' :
   st.write('makin sayang ama gua')
   st.write('ya pokonya makin makin lah yek')
   
+  st.title('  ')    
   st.write('nih gua kasi poto potolu spesial engga lagi kena bug wkkw :')
 
 
@@ -28,12 +29,13 @@ if nama == 'bener' :
   st.title('  ')  
   image2 = Image.open('jera2.jpeg')
   st.image(image2)
-  st.write('bokem :3')
+  st.write(' "bokem :3"')
   st.title('  ')
   image3 = Image.open('jera3.jpeg')
   st.image(image3)
-  st.write('beh manis kek garem')
+  st.write(' "beh manis kek garem"')
   st.title('')
+  st.write('Okey jera...')
   st.write('May all of your wishes will come true')
   st.title('  ')
   st.title('Love you')
