@@ -28,7 +28,7 @@ if nama == 'bener' :
   st.write(' "cantik bgt pacar sapa ni" ')
   st.title('  ')  
   image2 = Image.open('jera2.jpeg')
- st.image(image2)
+  st.image(image2)
   st.write('bokem :3')
   st.title('  ')
   image3 = Image.open('jera3.jpeg')
