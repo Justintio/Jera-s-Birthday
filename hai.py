@@ -18,6 +18,7 @@ if nama == 'bener' :
   st.write('makin cantik')
   st.write('makin sayang ama gua')
   st.write('ya pokonya makin makin lah yek')
+
   
   st.title('  ')    
   st.write('nih gua kasi poto potolu spesial engga lagi kena bug wkkw :')
@@ -41,3 +42,7 @@ if nama == 'bener' :
   st.title('Love you')
   st.write('Udah yak gitu aja, gabisa jadi manis ')
   st.write('bisanya mencintaimu ahay ')
+  st.title('  ')
+  st.write('wish lainnya buka lagu ini ya !!')
+  st.write('https://youtu.be/wGlrlZTCmMg')
+ 
