@@ -6,10 +6,10 @@ st.title('Hai.')
 bener = ['kosong', 'bener', 'salah']
 nama = st.selectbox('bener ga hari ini ulang tahun ? ', bener)
 
-if bener == 'salah' :
+if nama == 'salah' :
   st.write('boong lu !')
   
-if bener == 'bener' :
+if nama == 'bener' :
   st.write('Happy Birthday Cantikku')
 
   left_col, mid_col, right_col = st.columns(3)
