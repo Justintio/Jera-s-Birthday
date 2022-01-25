@@ -19,10 +19,9 @@ if nama == 'bener' :
   st.write('makin sayang ama gua')
   st.write('ya pokonya makin makin lah yek')
   
-  st.title('  ')
-  st.write('nih gua kasi poto potolu spesial engga lagi kena bug wkkw')
-  st.title('  ')
-  left_col, mid_col, right_col = st.columns(3)
+  st.write('nih gua kasi poto potolu spesial engga lagi kena bug wkkw :')
+
+
   image1 = Image.open('jera1.jpeg')
   st.image(image1)
   st.write(' "cantik bgt pacar sapa ni" ')
