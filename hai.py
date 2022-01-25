@@ -10,7 +10,8 @@ if nama == 'salah' :
   st.write('boong lu !')
   
 if nama == 'bener' :
-  st.write('Happy Birthday Cantikku')
+  st.title('Happy Birthday Cantik')
+  st.writa('May all of your wishes will come true')
 
   left_col, mid_col, right_col = st.columns(3)
   image1 = Image.open('jera1.jpeg')
