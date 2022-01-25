@@ -11,7 +11,13 @@ if nama == 'salah' :
   
 if nama == 'bener' :
   st.title('Happy Birthday Cantik')
-  st.write('May all of your wishes will come true')
+  st.write('semoga panjang umur')
+  st.write('sehat selalu')
+  st.write('tambah kaya')
+  st.write('tambah pintar')
+  st.write('makin cantik')
+  st.write('makin sayang ama gua')
+  
   
   st.title('  ')
   left_col, mid_col, right_col = st.columns(3)
@@ -23,6 +29,7 @@ if nama == 'bener' :
   st.title('  ')
   image3 = Image.open('jera3.jpeg')
   right_col.image(image3)
+  st.write('May all of your wishes will come true')
   st.title('  ')
   st.title('Love you')
   st.write('Udah yak gitu aja, gabisa jadi manis ')
