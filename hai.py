@@ -10,7 +10,8 @@ if nama == 'salah' :
   st.write('boong lu !')
   
 if nama == 'bener' :
-  st.title('Happy Birthday Sayang')
+  st.write('hari ini ultah kan !')
+  st.title('Happy Birthday Sayang <3')
   st.write('semoga panjang umur')
   st.write('sehat selalu')
   st.write('tambah kaya')
